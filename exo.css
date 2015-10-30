@@ -1,0 +1,74 @@
+/* {
+  padding: 0px;
+  margin: 0px;
+}*/
+
+.btn {
+  text-align: justify;
+  color: white;
+}
+
+header {
+  text-align: center;
+  color: lightgrey;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
+  padding-bottom: 40px;
+}
+
+article {
+  text-align: center;
+  height: 100px;
+}
+
+a {
+  color: lightblue;
+  text-decoration: none;
+
+}
+
+h2 {
+background-color: lightgrey 0.2;
+
+}
+footer {
+  margin-top: 300px;
+  text-align: center;
+  background-color: lightgrey 0.2;
+  color: white;
+  height: 40px;
+  padding-top: 10px;
+  font-size: 40px;
+  font-family: 'Amatic SC', cursive;
+}
+
+p {
+  color: lightgrey;
+  35px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+}
+ img {
+   float:left;
+  margin-right: 20px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+ }
+body {
+  clear: both;
+background-image: url(http://wallpoper.com/images/00/28/17/46/smooth-gradient_00281746.png);
+}
+article h1 {
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 50px;
+}
+
+#laboite {
+  border: 2px solid lightgrey;
+  margin-left: 350px;
+  margin-right: 350px;
+  border-radius: 8px;
+}
